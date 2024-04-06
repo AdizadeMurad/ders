@@ -1,0 +1,13 @@
+*{
+    list-style: none;
+}
+.square{
+        width: 200px;
+        height: 40px;
+        background-color: gray  ;
+}
+#form{
+ display: flex;
+ justify-content: center;
+ align-items: center;
+}
